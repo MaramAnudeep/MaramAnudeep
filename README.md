@@ -7,17 +7,18 @@
 
 - 🌱 I’m currently learning **Machine learning and AI**
 
-- 📫 How to reach me **anudeepgupta81@gmail.com**
+- 👨‍💻 All of my projects are available at [ My Portfolio](https://anudeepgupta.my.canva.site/)
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1imRCSihkIjs93rBKLmAfmjMBJG_9RzD5/view?usp=drive_link)
+- 📫 You can  reach out to me at **anudeepgupta81@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1imRCSihkIjs93rBKLmAfmjMBJG_9RzD5/view?usp=drive_link)
 
 - ⚡ Fun fact **I Think Data is everything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anudeep gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anudeep gupta" height="30" width="40" /></a><a href="https://www.hackerrank.com/anudeep gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anudeep gupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anudeep gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anudeep gupta" height="30" width="40" /></a> <a href="https://www.hackerrank.com/anudeep gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anudeep gupta" height="30" width="40" /></a>
 </p>
-
 
 ## 🔧skills
 
